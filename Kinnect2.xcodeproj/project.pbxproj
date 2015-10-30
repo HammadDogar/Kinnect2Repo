@@ -32,6 +32,7 @@
 		3735BC3F1BE34BA9002009D0 /* LeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC3C1BE34BA9002009D0 /* LeftMenuViewController.m */; };
 		3735BC401BE34BA9002009D0 /* RghtPanel_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC3E1BE34BA9002009D0 /* RghtPanel_ViewController.m */; };
 		3735BC921BE34C1D002009D0 /* Buttons in Resources */ = {isa = PBXBuildFile; fileRef = 3735BC911BE34C1D002009D0 /* Buttons */; };
+		37A250FD1BE3573C006CAB58 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A250FC1BE3573C006CAB58 /* TestViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,8 @@
 		3735BC3D1BE34BA9002009D0 /* RghtPanel_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RghtPanel_ViewController.h; sourceTree = "<group>"; };
 		3735BC3E1BE34BA9002009D0 /* RghtPanel_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RghtPanel_ViewController.m; sourceTree = "<group>"; };
 		3735BC911BE34C1D002009D0 /* Buttons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Buttons; sourceTree = "<group>"; };
+		37A250FB1BE3573C006CAB58 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		37A250FC1BE3573C006CAB58 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +133,8 @@
 			children = (
 				3735BBEA1BE3494A002009D0 /* AppDelegate.h */,
 				3735BBEB1BE3494A002009D0 /* AppDelegate.m */,
+				37A250FB1BE3573C006CAB58 /* TestViewController.h */,
+				37A250FC1BE3573C006CAB58 /* TestViewController.m */,
 				3735BC0C1BE34B22002009D0 /* Main.storyboard */,
 				3735BC2A1BE34B54002009D0 /* SB1 */,
 				3735BC3A1BE34B72002009D0 /* SB2 */,
@@ -335,6 +340,7 @@
 				3735BC351BE34B6B002009D0 /* PhoneNo.m in Sources */,
 				3735BC3F1BE34BA9002009D0 /* LeftMenuViewController.m in Sources */,
 				3735BBEC1BE3494A002009D0 /* AppDelegate.m in Sources */,
+				37A250FD1BE3573C006CAB58 /* TestViewController.m in Sources */,
 				3735BBE91BE3494A002009D0 /* main.m in Sources */,
 				3735BC271BE34B41002009D0 /* DBCell.m in Sources */,
 				3735BC281BE34B41002009D0 /* DBPCell.m in Sources */,
