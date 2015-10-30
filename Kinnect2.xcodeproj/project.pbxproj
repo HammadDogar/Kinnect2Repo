@@ -19,7 +19,6 @@
 		3735BC171BE34B22002009D0 /* iphone6plus copy.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3735BC101BE34B22002009D0 /* iphone6plus copy.jpeg */; };
 		3735BC181BE34B22002009D0 /* dashboard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3735BC111BE34B22002009D0 /* dashboard.jpg */; };
 		3735BC191BE34B22002009D0 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 3735BC121BE34B22002009D0 /* countries.json */; };
-		3735BC241BE34B41002009D0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC1B1BE34B41002009D0 /* ViewController.m */; };
 		3735BC251BE34B41002009D0 /* DashboardVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC1D1BE34B41002009D0 /* DashboardVC.m */; };
 		3735BC261BE34B41002009D0 /* ProfileVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC1F1BE34B41002009D0 /* ProfileVC.m */; };
 		3735BC271BE34B41002009D0 /* DBCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC211BE34B41002009D0 /* DBCell.m */; };
@@ -33,6 +32,13 @@
 		3735BC401BE34BA9002009D0 /* RghtPanel_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC3E1BE34BA9002009D0 /* RghtPanel_ViewController.m */; };
 		3735BC921BE34C1D002009D0 /* Buttons in Resources */ = {isa = PBXBuildFile; fileRef = 3735BC911BE34C1D002009D0 /* Buttons */; };
 		37A250FD1BE3573C006CAB58 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A250FC1BE3573C006CAB58 /* TestViewController.m */; settings = {ASSET_TAGS = (); }; };
+		37A251051BE35A6E006CAB58 /* Main3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37A250FE1BE35A6E006CAB58 /* Main3.storyboard */; settings = {ASSET_TAGS = (); }; };
+		37A251061BE35A6E006CAB58 /* ChatCustomCells.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A251001BE35A6E006CAB58 /* ChatCustomCells.m */; settings = {ASSET_TAGS = (); }; };
+		37A251071BE35A6E006CAB58 /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A251021BE35A6E006CAB58 /* ChatViewController.m */; settings = {ASSET_TAGS = (); }; };
+		37A251081BE35A6E006CAB58 /* apple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37A251031BE35A6E006CAB58 /* apple.jpg */; settings = {ASSET_TAGS = (); }; };
+		37A251091BE35A6E006CAB58 /* arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 37A251041BE35A6E006CAB58 /* arrow.png */; settings = {ASSET_TAGS = (); }; };
+		37A2510C1BE35CD0006CAB58 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A2510B1BE35CD0006CAB58 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		37A2510F1BE35CEC006CAB58 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A2510E1BE35CEC006CAB58 /* CustomCell.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,8 +69,6 @@
 		3735BC101BE34B22002009D0 /* iphone6plus copy.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone6plus copy.jpeg"; sourceTree = "<group>"; };
 		3735BC111BE34B22002009D0 /* dashboard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dashboard.jpg; sourceTree = "<group>"; };
 		3735BC121BE34B22002009D0 /* countries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
-		3735BC1A1BE34B41002009D0 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3735BC1B1BE34B41002009D0 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3735BC1C1BE34B41002009D0 /* DashboardVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DashboardVC.h; sourceTree = "<group>"; };
 		3735BC1D1BE34B41002009D0 /* DashboardVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DashboardVC.m; sourceTree = "<group>"; };
 		3735BC1E1BE34B41002009D0 /* ProfileVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfileVC.h; sourceTree = "<group>"; };
@@ -90,6 +94,17 @@
 		3735BC911BE34C1D002009D0 /* Buttons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Buttons; sourceTree = "<group>"; };
 		37A250FB1BE3573C006CAB58 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		37A250FC1BE3573C006CAB58 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		37A250FE1BE35A6E006CAB58 /* Main3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main3.storyboard; sourceTree = "<group>"; };
+		37A250FF1BE35A6E006CAB58 /* ChatCustomCells.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatCustomCells.h; sourceTree = "<group>"; };
+		37A251001BE35A6E006CAB58 /* ChatCustomCells.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatCustomCells.m; sourceTree = "<group>"; };
+		37A251011BE35A6E006CAB58 /* ChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatViewController.h; sourceTree = "<group>"; };
+		37A251021BE35A6E006CAB58 /* ChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatViewController.m; sourceTree = "<group>"; };
+		37A251031BE35A6E006CAB58 /* apple.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = apple.jpg; sourceTree = "<group>"; };
+		37A251041BE35A6E006CAB58 /* arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arrow.png; sourceTree = "<group>"; };
+		37A2510A1BE35CD0006CAB58 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		37A2510B1BE35CD0006CAB58 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		37A2510D1BE35CEC006CAB58 /* CustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
+		37A2510E1BE35CEC006CAB58 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,8 +151,12 @@
 				37A250FB1BE3573C006CAB58 /* TestViewController.h */,
 				37A250FC1BE3573C006CAB58 /* TestViewController.m */,
 				3735BC0C1BE34B22002009D0 /* Main.storyboard */,
+				37A250FE1BE35A6E006CAB58 /* Main3.storyboard */,
+				37A251031BE35A6E006CAB58 /* apple.jpg */,
+				37A251041BE35A6E006CAB58 /* arrow.png */,
 				3735BC2A1BE34B54002009D0 /* SB1 */,
 				3735BC3A1BE34B72002009D0 /* SB2 */,
+				37A251101BE35CF2006CAB58 /* SB3 */,
 				3735BC411BE34BB5002009D0 /* Menu */,
 				3735BC911BE34C1D002009D0 /* Buttons */,
 				3735BC0D1BE34B22002009D0 /* Red_sunset.jpg */,
@@ -182,8 +201,6 @@
 		3735BC2A1BE34B54002009D0 /* SB1 */ = {
 			isa = PBXGroup;
 			children = (
-				3735BC1A1BE34B41002009D0 /* ViewController.h */,
-				3735BC1B1BE34B41002009D0 /* ViewController.m */,
 				3735BC1C1BE34B41002009D0 /* DashboardVC.h */,
 				3735BC1D1BE34B41002009D0 /* DashboardVC.m */,
 				3735BC1E1BE34B41002009D0 /* ProfileVC.h */,
@@ -222,6 +239,21 @@
 				3735BC3E1BE34BA9002009D0 /* RghtPanel_ViewController.m */,
 			);
 			name = Menu;
+			sourceTree = "<group>";
+		};
+		37A251101BE35CF2006CAB58 /* SB3 */ = {
+			isa = PBXGroup;
+			children = (
+				37A250FF1BE35A6E006CAB58 /* ChatCustomCells.h */,
+				37A251001BE35A6E006CAB58 /* ChatCustomCells.m */,
+				37A251011BE35A6E006CAB58 /* ChatViewController.h */,
+				37A251021BE35A6E006CAB58 /* ChatViewController.m */,
+				37A2510D1BE35CEC006CAB58 /* CustomCell.h */,
+				37A2510E1BE35CEC006CAB58 /* CustomCell.m */,
+				37A2510A1BE35CD0006CAB58 /* ViewController.h */,
+				37A2510B1BE35CD0006CAB58 /* ViewController.m */,
+			);
+			name = SB3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -304,15 +336,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37A251051BE35A6E006CAB58 /* Main3.storyboard in Resources */,
 				3735BC151BE34B22002009D0 /* ProfilePhoto.jpg in Resources */,
 				3735BC171BE34B22002009D0 /* iphone6plus copy.jpeg in Resources */,
 				3735BC161BE34B22002009D0 /* iphone6plus.jpeg in Resources */,
 				3735BC191BE34B22002009D0 /* countries.json in Resources */,
+				37A251091BE35A6E006CAB58 /* arrow.png in Resources */,
 				3735BC921BE34C1D002009D0 /* Buttons in Resources */,
 				3735BC131BE34B22002009D0 /* Main.storyboard in Resources */,
 				3735BC181BE34B22002009D0 /* dashboard.jpg in Resources */,
 				3735BC141BE34B22002009D0 /* Red_sunset.jpg in Resources */,
 				3735BBF71BE3494A002009D0 /* LaunchScreen.xib in Resources */,
+				37A251081BE35A6E006CAB58 /* apple.jpg in Resources */,
 				3735BBF41BE3494A002009D0 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -331,7 +366,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3735BC241BE34B41002009D0 /* ViewController.m in Sources */,
+				37A2510C1BE35CD0006CAB58 /* ViewController.m in Sources */,
 				3735BC261BE34B41002009D0 /* ProfileVC.m in Sources */,
 				3735BC401BE34BA9002009D0 /* RghtPanel_ViewController.m in Sources */,
 				3735BC381BE34B6B002009D0 /* Signup.m in Sources */,
@@ -339,11 +374,14 @@
 				3735BC361BE34B6B002009D0 /* Verification_code.m in Sources */,
 				3735BC351BE34B6B002009D0 /* PhoneNo.m in Sources */,
 				3735BC3F1BE34BA9002009D0 /* LeftMenuViewController.m in Sources */,
+				37A2510F1BE35CEC006CAB58 /* CustomCell.m in Sources */,
 				3735BBEC1BE3494A002009D0 /* AppDelegate.m in Sources */,
 				37A250FD1BE3573C006CAB58 /* TestViewController.m in Sources */,
+				37A251061BE35A6E006CAB58 /* ChatCustomCells.m in Sources */,
 				3735BBE91BE3494A002009D0 /* main.m in Sources */,
 				3735BC271BE34B41002009D0 /* DBCell.m in Sources */,
 				3735BC281BE34B41002009D0 /* DBPCell.m in Sources */,
+				37A251071BE35A6E006CAB58 /* ChatViewController.m in Sources */,
 				3735BC391BE34B6B002009D0 /* EventDetailView-ViewController.m in Sources */,
 				3735BC371BE34B6B002009D0 /* Firstpage.m in Sources */,
 			);
