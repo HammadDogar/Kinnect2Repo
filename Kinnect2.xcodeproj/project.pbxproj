@@ -32,7 +32,6 @@
 		3735BC401BE34BA9002009D0 /* RghtPanel_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3735BC3E1BE34BA9002009D0 /* RghtPanel_ViewController.m */; };
 		3735BC921BE34C1D002009D0 /* Buttons in Resources */ = {isa = PBXBuildFile; fileRef = 3735BC911BE34C1D002009D0 /* Buttons */; };
 		37A250FD1BE3573C006CAB58 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A250FC1BE3573C006CAB58 /* TestViewController.m */; settings = {ASSET_TAGS = (); }; };
-		37A251051BE35A6E006CAB58 /* Main3.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37A250FE1BE35A6E006CAB58 /* Main3.storyboard */; settings = {ASSET_TAGS = (); }; };
 		37A251061BE35A6E006CAB58 /* ChatCustomCells.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A251001BE35A6E006CAB58 /* ChatCustomCells.m */; settings = {ASSET_TAGS = (); }; };
 		37A251071BE35A6E006CAB58 /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 37A251021BE35A6E006CAB58 /* ChatViewController.m */; settings = {ASSET_TAGS = (); }; };
 		37A251081BE35A6E006CAB58 /* apple.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37A251031BE35A6E006CAB58 /* apple.jpg */; settings = {ASSET_TAGS = (); }; };
@@ -94,7 +93,6 @@
 		3735BC911BE34C1D002009D0 /* Buttons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Buttons; sourceTree = "<group>"; };
 		37A250FB1BE3573C006CAB58 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		37A250FC1BE3573C006CAB58 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
-		37A250FE1BE35A6E006CAB58 /* Main3.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main3.storyboard; sourceTree = "<group>"; };
 		37A250FF1BE35A6E006CAB58 /* ChatCustomCells.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatCustomCells.h; sourceTree = "<group>"; };
 		37A251001BE35A6E006CAB58 /* ChatCustomCells.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatCustomCells.m; sourceTree = "<group>"; };
 		37A251011BE35A6E006CAB58 /* ChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatViewController.h; sourceTree = "<group>"; };
@@ -151,7 +149,6 @@
 				37A250FB1BE3573C006CAB58 /* TestViewController.h */,
 				37A250FC1BE3573C006CAB58 /* TestViewController.m */,
 				3735BC0C1BE34B22002009D0 /* Main.storyboard */,
-				37A250FE1BE35A6E006CAB58 /* Main3.storyboard */,
 				37A251031BE35A6E006CAB58 /* apple.jpg */,
 				37A251041BE35A6E006CAB58 /* arrow.png */,
 				3735BC2A1BE34B54002009D0 /* SB1 */,
@@ -336,7 +333,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37A251051BE35A6E006CAB58 /* Main3.storyboard in Resources */,
 				3735BC151BE34B22002009D0 /* ProfilePhoto.jpg in Resources */,
 				3735BC171BE34B22002009D0 /* iphone6plus copy.jpeg in Resources */,
 				3735BC161BE34B22002009D0 /* iphone6plus.jpeg in Resources */,
