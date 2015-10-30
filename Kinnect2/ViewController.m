@@ -1,9 +1,9 @@
 //
 //  ViewController.m
-//  Kinnect2
+//  TEST
 //
-//  Created by Hammad Bin Hamid on 10/30/15.
-//  Copyright (c) 2015 Hammad. All rights reserved.
+//  Created by Blue Orca 05 on 01/10/2015.
+//  Copyright (c) 2015 BlueOrca. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
 }
 
 - (void)didReceiveMemoryWarning {
